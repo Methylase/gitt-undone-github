@@ -1,2 +1,2 @@
 # gitt-undone-github
-about all my codes
+about all my codes and all necessary details
